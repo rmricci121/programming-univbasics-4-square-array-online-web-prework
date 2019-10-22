@@ -1,9 +1,9 @@
 
 def square_array(array)
- 
-while n < 10
-  puts n
-  n += 1
+count = 0 
 
+while array.square do 
+  puts square 
+  count +=1 
 end
 
